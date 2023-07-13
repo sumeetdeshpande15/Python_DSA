@@ -15,4 +15,5 @@
             - head = head.next()  points to the next node in the list.
 - O(n) -> adding an item in between the list.
 - O(n) -> removing an item from between the list.
+- O(n) -> lookup in LL.
 '''
